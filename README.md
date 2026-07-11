@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 📖 I'm majoring in Information Science and Engineering.
 - 🌱 I’m currently learning OpenCV.
   
-
+-->
